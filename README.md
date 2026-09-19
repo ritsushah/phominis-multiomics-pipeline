@@ -209,7 +209,7 @@ Full metrics, feature matrix, and additional outputs are available under `result
 
 If you use this pipeline or results, please cite:
 
-> Ritu Shah. Multi-Omics Pipeline for Detection and Characterization of *Pentatrichomonas hominis* in Immunocompromised Microbiomes. GitHub repository, 2026. https://github.com/[your-username]/phominis-multiomics-pipeline
+> Ritu Shah. Multi-Omics Pipeline for Detection and Characterization of *Pentatrichomonas hominis* in Immunocompromised Microbiomes. GitHub repository, 2026. https://github.com/ritsushah/phominis-multiomics-pipeline
 
 **License**: MIT (see LICENSE)
 
