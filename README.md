@@ -192,7 +192,7 @@ These results show that a clear *P. hominis* signal combined with host immune ma
 
 Full metrics, feature matrix, and additional outputs are available under `results/ml/` and `results/figures/`.
 
-## How This Demonstrates PhD-Level Competence
+## Skills 
 
 | Skill                        | Evidence in this project                                      |
 |-----------------------------|---------------------------------------------------------------|
