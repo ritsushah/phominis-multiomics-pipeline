@@ -1,6 +1,6 @@
 # Multi-Omics Pipeline for Detection & Characterization of *Pentatrichomonas hominis* in Immunocompromised Gut Microbiomes
 
-**PhD-level bioinformatics project** demonstrating end-to-end data engineering, custom pathogen detection, reproducible workflows, and machine learning applied to a real neglected opportunistic protozoan.
+Demonstrating end-to-end data engineering, custom pathogen detection, reproducible workflows, and machine learning applied to a real neglected opportunistic protozoan.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Nextflow](https://img.shields.io/badge/Nextflow-compatible-green.svg)](https://www.nextflow.io/)
