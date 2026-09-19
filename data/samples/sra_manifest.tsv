@@ -1,0 +1,6 @@
+sample_id	srr_accession	condition	cohort	notes
+HIV_UG_001	SRR34978749	HIV	Uganda_PRJNA1305443	Example from Broad HIV multi-cohort study
+HIV_UG_002	SRR34978750	HIV	Uganda_PRJNA1305443	Placeholder – replace with real neighboring accessions
+CTRL_US_001	SRR34978800	Control	US_PRJNA1305443	Example control
+TRANSPLANT_01	SRR12345678	Transplant	Public_HCT	Replace with real HCT shotgun accessions from literature
+IBD_CTRL_01	SRR10000000	IBD_control	IBDMDB	For comparative dysbiosis analysis

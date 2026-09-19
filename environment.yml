@@ -1,0 +1,26 @@
+name: phominis-pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - nextflow
+  - snakemake
+  - biopython
+  - pandas
+  - numpy
+  - scikit-learn
+  - xgboost
+  - shap
+  - umap-learn
+  - hdbscan
+  - matplotlib
+  - seaborn
+  - plotly
+  - pyyaml
+  - tqdm
+  - pip
+  - pip:
+    - pysam
+    - multiqc

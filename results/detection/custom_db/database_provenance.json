@@ -1,0 +1,25 @@
+{
+  "created": "2026-09-19T19:26:50.902463Z",
+  "genome_file": "data/genomes/Phominis_Hs3NIH.fna",
+  "genome_md5": "0d05805bcea6c294fa2871c13b46a270",
+  "genome_stats": {
+    "n_contigs": 18404,
+    "total_length_bp": 54332460,
+    "n50": 10851,
+    "longest_contig": 77749,
+    "gc_content": 0.37820417113452987
+  },
+  "marker_files": [
+    "data/markers/AY758392.fasta",
+    "data/markers/JN007007.fasta",
+    "data/markers/OP353527.fasta"
+  ],
+  "marker_md5s": {
+    "data/markers/AY758392.fasta": "4dee0b5686da3189ee020ee9345903de",
+    "data/markers/JN007007.fasta": "b3e04a673d3b8924394dfc1fcffac738",
+    "data/markers/OP353527.fasta": "eb5d800c915d8bf29d6d1d512d04138c"
+  },
+  "combined_fasta": "results/detection/custom_db/phominis_custom_db.fasta",
+  "markers_only_fasta": "results/detection/custom_db/phominis_markers_only.fasta",
+  "notes": "Real P. hominis Hs-3:NIH genome (GCA_047301545.1) + public marker sequences. Ready for Kraken2 / BLAST / k-mer detection."
+}

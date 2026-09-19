@@ -1,0 +1,26 @@
+{
+  "elastic_net": {
+    "roc_auc_mean": 0.955,
+    "roc_auc_std": 0.028,
+    "auprc_mean": 0.764,
+    "auprc_std": 0.119,
+    "f1_mean": 0.794,
+    "f1_std": 0.129
+  },
+  "random_forest": {
+    "roc_auc_mean": 0.97,
+    "roc_auc_std": 0.016,
+    "auprc_mean": 0.824,
+    "auprc_std": 0.109,
+    "f1_mean": 0.833,
+    "f1_std": 0.112
+  },
+  "xgboost": {
+    "roc_auc_mean": 0.97,
+    "roc_auc_std": 0.016,
+    "auprc_mean": 0.841,
+    "auprc_std": 0.096,
+    "f1_mean": 0.808,
+    "f1_std": 0.06
+  }
+}
